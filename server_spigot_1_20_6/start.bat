@@ -1,0 +1,1 @@
+java -Xmx8G -jar spigot-1.20.6.jar -nogui

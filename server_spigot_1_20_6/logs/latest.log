@@ -1,0 +1,225 @@
+[18:18:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:18:37] [ServerMain/INFO]: Loaded 1182 recipes
+[18:18:38] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[18:18:38] [Server thread/INFO]: Loading properties
+[18:18:38] [Server thread/INFO]: This server is running CraftBukkit version 4195-a-Spigot-f6a4805-cebb58e (MC: 1.20.6) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[18:18:38] [Server thread/INFO]: Debug logging is disabled
+[18:18:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:18:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:18:38] [Server thread/INFO]: Default game type: SURVIVAL
+[18:18:38] [Server thread/INFO]: Generating keypair
+[18:18:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:18:38] [Server thread/INFO]: Using default channel type
+[18:18:39] [Server thread/INFO]: [DeathChest] Loading 8 libraries... please wait
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\org\apache\commons\commons-text\1.10.0\commons-text-1.10.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\com\google\inject\guice\7.0.0\guice-7.0.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\aopalliance\aopalliance\1.0\aopalliance-1.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\com\google\errorprone\error_prone_annotations\2.7.1\error_prone_annotations-2.7.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\cloud\commandframework\cloud-core\1.7.1\cloud-core-1.7.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\cloud\commandframework\cloud-services\1.7.1\cloud-services-1.7.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\io\leangen\geantyref\geantyref\1.3.13\geantyref-1.3.13.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\org\checkerframework\checker-qual\3.22.1\checker-qual-3.22.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\cloud\commandframework\cloud-bukkit\1.7.1\cloud-bukkit-1.7.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\cloud\commandframework\cloud-brigadier\1.7.1\cloud-brigadier-1.7.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\cloud\commandframework\cloud-tasks\1.7.1\cloud-tasks-1.7.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-platform-bukkit\4.3.0\adventure-platform-bukkit-4.3.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-platform-api\4.3.0\adventure-platform-api-4.3.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-text-serializer-bungeecord\4.3.0\adventure-text-serializer-bungeecord-4.3.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-nbt\4.13.0\adventure-nbt-4.13.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\examination-api\1.3.0\examination-api-1.3.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\examination-string\1.3.0\examination-string-1.3.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\org\jetbrains\annotations\24.0.1\annotations-24.0.1.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-text-serializer-gson\4.13.0\adventure-text-serializer-gson-4.13.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-text-serializer-gson-legacy-impl\4.13.0\adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-platform-facet\4.3.0\adventure-platform-facet-4.3.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-platform-viaversion\4.3.0\adventure-platform-viaversion-4.3.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-text-minimessage\4.14.0\adventure-text-minimessage-4.14.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-api\4.14.0\adventure-api-4.14.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-key\4.14.0\adventure-key-4.14.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\net\kyori\adventure-text-serializer-legacy\4.14.0\adventure-text-serializer-legacy-4.14.0.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\org\bstats\bstats-bukkit\3.0.2\bstats-bukkit-3.0.2.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loaded library F:\Files\minecraft\_servers\server spigot 1.20.6\libraries\org\bstats\bstats-base\3.0.2\bstats-base-3.0.2.jar
+[18:18:39] [Server thread/INFO]: [DeathChest] Loading DeathChest v2.2.7
+[18:18:39] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.4.2
+[18:18:39] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.2
+[18:18:39] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[18:18:40] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.6[32;1m.[0;39m[m
+[18:18:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:18:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:18:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:18:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:18:40] [Server thread/INFO]: Preparing level "world"
+[18:18:40] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:18:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:18:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:18:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:18:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:18:40] [Server thread/INFO]: Simulation Distance: 10
+[18:18:40] [Server thread/INFO]: View Distance: 10
+[18:18:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:18:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:18:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:18:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:18:40] [Server thread/INFO]: Mob Spawn Range: 6
+[18:18:40] [Server thread/INFO]: Max TNT Explosions: 100
+[18:18:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:18:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:18:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:18:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:18:40] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:18:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:18:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:18:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:18:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:18:40] [Server thread/INFO]: Simulation Distance: 10
+[18:18:40] [Server thread/INFO]: View Distance: 10
+[18:18:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:18:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:18:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:18:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:18:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:18:40] [Server thread/INFO]: Mob Spawn Range: 6
+[18:18:40] [Server thread/INFO]: Max TNT Explosions: 100
+[18:18:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:18:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:18:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:18:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:18:43] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:18:43] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:18:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:18:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:18:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:18:43] [Server thread/INFO]: Simulation Distance: 10
+[18:18:43] [Server thread/INFO]: View Distance: 10
+[18:18:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:18:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:18:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:18:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:18:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:18:43] [Server thread/INFO]: Mob Spawn Range: 6
+[18:18:43] [Server thread/INFO]: Max TNT Explosions: 100
+[18:18:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:18:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:18:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:18:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:18:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:18:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:18:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:18:44] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[18:18:44] [Server thread/INFO]: Preparing spawn area: 100%
+[18:18:44] [Server thread/INFO]: Time elapsed: 1529 ms
+[18:18:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:18:44] [Worker-Main-23/INFO]: Preparing spawn area: 0%
+[18:18:45] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[18:18:45] [Server thread/INFO]: Time elapsed: 984 ms
+[18:18:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:18:46] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[18:18:46] [Server thread/INFO]: Time elapsed: 436 ms
+[18:18:46] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
+[18:18:46] [Server thread/INFO]: [DeathChest] 2 death chests loaded in world "world"
+[18:18:46] [Server thread/INFO]: [DeathChest]   Of these 2 have expired
+[18:18:46] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[18:18:46] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[18:18:46] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[18:18:46] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[18:18:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:18:46] [Server thread/INFO]: Done (6.005s)! For help, type "help"
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.2[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m210a436[0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
+[18:18:46] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[18:18:51] [Craft Scheduler Thread - 2/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mError getting Eclipse UUID[0;39m
+[18:18:57] [Craft Scheduler Thread - 2/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mError getting Eclipse Profile[0;39m
+[18:22:32] [User Authenticator #1/INFO]: UUID of player butterdawgg06 is 8b9db3e3-97ab-3132-bf34-6f0e44134a92
+[18:22:33] [Server thread/INFO]: butterdawgg06 joined the game
+[18:22:33] [Server thread/INFO]: butterdawgg06[/[0:0:0:0:0:0:0:1]:50781] logged in with entity id 22 at ([world]-352.75899763525086, 63.0, -1667.6116156325816)
+[18:24:12] [Server thread/INFO]: butterdawgg06 lost connection: Disconnected
+[18:24:12] [Server thread/INFO]: butterdawgg06 left the game
+[18:39:13] [User Authenticator #2/INFO]: UUID of player butterdawgg06 is 8b9db3e3-97ab-3132-bf34-6f0e44134a92
+[18:39:13] [Server thread/INFO]: butterdawgg06 joined the game
+[18:39:13] [Server thread/INFO]: butterdawgg06[/25.37.248.201:50446] logged in with entity id 466 at ([world]-356.02217093001786, 62.9375, -1656.9935892125613)
+[18:39:25] [Server thread/INFO]: butterdawgg06 lost connection: Disconnected
+[18:39:25] [Server thread/INFO]: butterdawgg06 left the game
+[18:39:34] [Server thread/INFO]: Stopping the server
+[18:39:34] [Server thread/INFO]: Stopping server
+[18:39:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.2
+[18:39:34] [Server thread/INFO]: [DeathChest] Disabling DeathChest v2.2.7
+[18:39:34] [Server thread/INFO]: Saving players
+[18:39:34] [Server thread/INFO]: Saving worlds
+[18:39:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:39:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:39:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:39:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:39:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:39:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:39:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
